@@ -1,3 +1,5 @@
+    - Project name - Om Biryani House - WordPress website 
+ 
  - Home Page should load properly.
  - Navigation Menu (Home, Menu, About Us, Contact) should work.
  - Contact Form should accept valid details.
