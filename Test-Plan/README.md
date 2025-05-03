@@ -9,13 +9,14 @@ Testing Om Biryani House website basic functions like home page, contact form, m
    - Contact form validation
    - Responsive design (Mobile)
    - Image loading
+   
 - Out of Scope:
    - Backend server/database testing
    - Payment gateway (if any)
 
 - Devices for Testing:
-   - Android Mobile, iPhone
-   - Chrome, Safari browsers
+   - Android Mobile, REDMI
+   - Chrome, browsers
    - WiFi and Mobile Data
 
 
