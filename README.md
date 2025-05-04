@@ -1,2 +1,2 @@
-    - Project Name:- Om Biryani House 
-Planned and created a basic business website structure for a local food business. Worked on content layout, customer flow, and basic SEO planning.
+   - Project Name:- Om biryani house
+Created a basic website layout for a small food business. Focused on menu display, contact info, and simple user flow.
